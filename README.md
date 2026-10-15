@@ -19,7 +19,7 @@
 const ansh = {
   role: "Full-stack developer",
   studying: "BCA @ JIMS, New Delhi",
-  building: ["LLM apps", "RAG pipelines", "multi-agent systems"],
+  currentFocus: ["LLM", "RAG pipelines", "multi-agent systems"],
   buildsAnything: "software or hardware",
   openTo: "AI / full-stack internships",
 };
@@ -29,7 +29,7 @@ const ansh = {
 
 ### ⚡ Currently
 
-Getting hands-on with **LLMs**, **RAG**, and **multi-agent systems**, and building with them rather than just reading about them.
+Getting hands-on with **LLMs**, **RAG**, and **multi-agent systems**, rather than just reading about them.
 
 <br/>
 
