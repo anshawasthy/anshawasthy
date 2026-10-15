@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Ansh Awasthy 👋
+# Hey, i'm Ansh😜
 
 <a href="https://github.com/anshawasthy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+(Next.js+%7C+Node+%7C+MongoDB);Building+AI-powered+web+apps;Ex-Web+Security+Analyst+Intern;President+%40+E-CELL%2C+JIMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+(Next.js+%7C+Node+%7C+MongoDB);Building+AI-powered+web+apps;AI+Native;" alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansh.awasthy.me-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh.awasthy.me)
@@ -15,12 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-BCA student at **Jagannath International Management School, New Delhi** (CGPA 8.76/10), building full-stack products with an increasing focus on **AI application engineering**.
+BCA student at **Jagannath International Management School, New Delhi, building full-stack products with an increasing focus on **AI application engineering**.
 
 - 🏢 Recently interned at **Believ-In Tech**, building an HRMS Project Management module with Next.js, MongoDB, and role-based auth
 - 🔐 Previously a **Web Security Analyst Intern at Secure Strike**: pentesting live apps, reporting OWASP Top 10 issues with CVSS ratings and PoCs
-- 🚀 **President of E-CELL, JIMS**: leading entrepreneurship events and a student team
-- 🔍 Looking for **AI Engineer / Full-Stack / Software Engineering internships** at startups
+- 🔍 Looking for **AI Engineer / Full-Stack / Software Engineering internships** roles.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anshawasthy) or through my [portfolio](https://ansh.awasthy.me)
 
 ---
