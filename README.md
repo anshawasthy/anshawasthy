@@ -1,85 +1,65 @@
 <div align="center">
 
-# Hey, i'm Ansh😜
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1b4b&height=130&section=header&text=Ansh%20Awasthy&fontSize=36&fontColor=E9D5FF&fontAlign=50&fontAlignY=52" alt="Ansh Awasthy" width="100%" />
 
 <a href="https://github.com/anshawasthy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Building+AI-powered+web+apps;AI+orchestration;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=A78BFA&background=00000000&center=true&vCenter=true&width=520&height=40&lines=Full-stack+developer;Building+AI-powered+web+apps;LLMs+%C2%B7+RAG+%C2%B7+multi-agent+systems;If+it+can+be+built%2C+I'll+figure+it+out." alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ansh.awasthy.me-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh.awasthy.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshawasthy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshawasthy)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-ansh.awasthy.me-8B5CF6?style=flat-square&labelColor=0d1117&logo=vercel&logoColor=white)](https://ansh.awasthy.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-anshawasthy-8B5CF6?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshawasthy)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+```ts
+const ansh = {
+  role: "Full-stack developer",
+  studying: "BCA @ JIMS, New Delhi",
+  building: ["LLM apps", "RAG pipelines", "multi-agent systems"],
+  buildsAnything: "software or hardware",
+  openTo: "AI / full-stack internships",
+};
+```
 
-BCA student at Jagannath International Management School, New Delhi, building full-stack products with an increasing focus on **AI application engineering**.
+<br/>
 
-- 🏢 Recently interned at **Believ-In Tech**, building an HRMS Project Management module with Next.js, MongoDB, and role-based auth
-- 🔐 Previously a **Web Security Analyst Intern at Secure Strike**: pentesting live apps, reporting OWASP Top 10 issues with CVSS ratings and PoCs
-- 🔍 Looking for **AI Engineer / Full-Stack / Software Engineering internships** roles.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anshawasthy) or through my [portfolio](https://ansh.awasthy.me)
+### ⚡ Currently
 
----
+Getting hands-on with **LLMs**, **RAG**, and **multi-agent systems**, and building with them rather than just reading about them.
 
-## 🛠️ Tech Stack
+<br/>
 
-**Frontend & Backend**
+### 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,fastapi" alt="Frontend and backend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,python,tailwind,docker,git&theme=dark" alt="Tech stack" />
 
-**Databases, Languages & Tools**
+<br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,python,java,git,github,docker,vercel,postman" alt="Databases, languages and tools" />
+### 📌 Projects
 
-**Also:** JWT · OAuth · NextAuth/Auth.js · REST APIs · RBAC · Burp Suite · OWASP ZAP · Nmap · Nuclei
+**[Notes Manager](https://github.com/anshawasthy)**: MERN workspace with JWT auth and RBAC. Groq AI summarizes notes and turns plain-English commands into actions.
+<!-- TODO: replace the link above with the repo URL and add a live demo link -->
 
----
+**[Lizzn.](https://github.com/anshawasthy)**: Music streaming platform with artist onboarding, album/track management, and responsive playback.
+<!-- TODO: replace the link above with the repo URL and add a live demo link -->
 
-## 📌 Featured Projects
+**[Image Posting Site](https://github.com/anshawasthy)**: Social image app with cloud uploads and optimization via ImageKit.
+<!-- TODO: replace the link above with the repo URL and add a live demo link -->
 
-### 🧠 Notes Manager App
-MERN workspace app with JWT auth, RBAC, and multi-user note sharing. Uses the **Groq AI API** to auto-summarize notes and turn natural-language commands into structured note actions.
-`React` `Node.js` `Express` `MongoDB` `JWT` `Groq AI`
-<!-- TODO: add [Live Demo](URL) · [Source](https://github.com/anshawasthy/REPO-NAME) -->
-
-### 🎵 Lizzn. — Music Streaming Platform
-Full-stack MERN platform with role-separated artist onboarding, album/track management, and responsive audio playback.
-`React` `Node.js` `Express` `MongoDB` `JWT`
-<!-- TODO: add [Live Demo](URL) · [Source](https://github.com/anshawasthy/REPO-NAME) -->
-
-### 🖼️ Image Posting Site
-Social media-style app with secure image uploads via ImageKit (cloud storage and optimization) and REST-driven content management.
-`React` `Node.js` `Express` `MongoDB` `ImageKit`
-<!-- TODO: add [Live Demo](URL) · [Source](https://github.com/anshawasthy/REPO-NAME) -->
-
-➡️ More on my [portfolio](https://ansh.awasthy.me)
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshawasthy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshawasthy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=anshawasthy&show_icons=true&hide_title=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&border_color=21262D&border_radius=12" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshawasthy&layout=compact&hide_title=true&bg_color=0d1117&text_color=C9D1D9&border_color=21262D&border_radius=12&langs_count=6" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=anshawasthy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/>
 
-</div>
-
----
-
-## 🎯 Currently
-
-- 🌱 Building AI-powered features: LLM integrations and structured outputs
-- 📚 Deepening backend and system design skills
-- 🤝 Open to collaborating on web and AI projects
-
-<div align="center">
-
-*"Ship small, learn fast, secure what you build."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0d1117&height=60&section=footer" width="100%" alt="" />
 
 </div>
