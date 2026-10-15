@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-BCA student at **Jagannath International Management School, New Delhi, building full-stack products with an increasing focus on **AI application engineering**.
+BCA student at Jagannath International Management School, New Delhi, building full-stack products with an increasing focus on **AI application engineering**.
 
 - 🏢 Recently interned at **Believ-In Tech**, building an HRMS Project Management module with Next.js, MongoDB, and role-based auth
 - 🔐 Previously a **Web Security Analyst Intern at Secure Strike**: pentesting live apps, reporting OWASP Top 10 issues with CVSS ratings and PoCs
