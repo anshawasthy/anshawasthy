@@ -3,7 +3,7 @@
 # Hey, i'm Ansh😜
 
 <a href="https://github.com/anshawasthy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+(Next.js+%7C+Node+%7C+MongoDB);Building+AI-powered+web+apps;AI+Native;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Building+AI-powered+web+apps;AI+orchestration;" alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansh.awasthy.me-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ansh.awasthy.me)
